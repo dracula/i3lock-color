@@ -42,13 +42,17 @@ i3lock \
   --noinput="No Input" \
   --lock-text="Locking..." \
   --lockfailed="Lock Failed" \
-  --time-font="JetBrainsMono Nerd Font" \
-  --date-font="JetBrainsMono Nerd Font" \
-  --layout-font="JetBrainsMono Nerd Font" \
-  --verif-font="JetBrainsMono Nerd Font" \
-  --wrong-font="JetBrainsMono Nerd Font" \
   --radius=120 \
   --ring-width=10 \
   --pass-media-keys \
   --pass-screen-keys \
   --pass-volume-keys \
+#  --time-font="JetBrainsMono Nerd Font" \
+#  --date-font="JetBrainsMono Nerd Font" \
+#  --layout-font="JetBrainsMono Nerd Font" \
+#  --verif-font="JetBrainsMono Nerd Font" \
+#  --wrong-font="JetBrainsMono Nerd Font" \
+
+# These last five lines are commented because they concern the font you want to use.
+# JetBrainsMono Nerd Font is the font that was used in the screenshot.
+# To specify a favorite font, just uncomment the five lines and replace the parameter with the font you prefer.
