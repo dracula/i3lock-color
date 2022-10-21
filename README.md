@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/i3lock](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/i3lock/graphs/contributors).
 
-| [![fccapria](https://avatars.githubusercontent.com/u/62179193?v=4)](https://github.com/fccapria) |
-| -------------------------------------------------------------------------------------------------- |
-| [fccapria](https://github.com/fccapria)                                                            |
+| [![fccapria](https://avatars.githubusercontent.com/u/62179193?v=4&s=100)](https://github.com/fccapria) |
+| ----------------------------------------------------------------------------------------------------- |
+| [fccapria](https://github.com/fccapria)                                                               |
 
 ## Community
 
