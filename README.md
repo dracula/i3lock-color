@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/i3lock](https://draculatheme.com/i3lock).
+All instructions can be found at [draculatheme.com/i3lock-color](https://draculatheme.com/i3lock-color).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/i3lock/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/i3lock-color/graphs/contributors).
 
 | [![fccapria](https://avatars.githubusercontent.com/u/62179193?v=4&s=100)](https://github.com/fccapria) |
 | ----------------------------------------------------------------------------------------------------- |
