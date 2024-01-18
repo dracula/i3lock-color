@@ -28,6 +28,7 @@ i3lock \
   --separator-color=$selection$alpha \
   --verif-color=$green \
   --wrong-color=$red \
+  --modif-color=$red \
   --layout-color=$blue \
   --date-color=$blue \
   --time-color=$blue \
